@@ -251,9 +251,9 @@ Je suis toujours ouvert aux collaborations sur des projets intéressants et inno
   
   ### ⭐️ Si mes projets vous intéressent, n'hésitez pas à laisser des stars et à contribuer!
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Godwin-creator&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Godwin-creator&color=yellow&style=for-the-badge)
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=❤️+Merci+de+votre+visite+🧑‍💻!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=❤️+Merci+pour+la+visite+🧑‍💻!;See+You+Soon+👋)
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
   
