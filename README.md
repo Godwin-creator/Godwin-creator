@@ -161,7 +161,7 @@ Extension navigateur intelligente pour une gestion optimisée de l'impression. C
 - **Technologies :** HTML, CSS, JavaScript
 - **Design :** Responsive, moderne et accessible
 
-### 🎮 [Flappy Bird - Gwin Edition](https://github.com/Godwin-creator/flappybird-gwin)
+### 🎮 [Flappy Bird - Gwin Edition](https://github.com/Godwin-creator/flappybird-v2)
 Recréation du célèbre jeu Flappy Bird avec des mécaniques de jeu fluides et une interface personnalisée. Un projet qui combine logique de programmation et design interactif.
 - **Technologies :** HTML5 Canvas, JavaScript, CSS
 - **Caractéristiques :** Animation smooth, système de score, design personnalisé
