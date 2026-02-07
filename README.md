@@ -39,7 +39,7 @@ Ma devise : **"Do Best Of Yourself"** - donner le meilleur de soi-même.
 
 </div>
 
-### Frameworks et Bibliothèques
+### Frameworks et Bibliothèques (Learning...)
 <div align="center">
 
 
@@ -62,7 +62,7 @@ Ma devise : **"Do Best Of Yourself"** - donner le meilleur de soi-même.
 ### Design
 <div align="center">
 
-
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
