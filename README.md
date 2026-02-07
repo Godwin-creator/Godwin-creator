@@ -230,7 +230,7 @@ Je suis toujours ouvert aux collaborations sur des projets intéressants et inno
   
   **Envie de discuter d'un projet ou simplement d'échanger ?**
   
-  📧 Email professionnel : [Contactez-moi via LinkedIn](https://www.linkedin.com/in/komi-godwin-edoh-bedi-449166339/)  
+  📧 Email professionnel : [Contactez-moi via LinkedIn](https://www.linkedin.com/in/gwin-edohbedi/)  
   💬 WhatsApp : [+228 96 83 64 47](https://wa.me/+22896836447)  
   🌐 Portfolio personnel : [En cours de développement]
   
