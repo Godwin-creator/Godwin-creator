@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Étudiant+en+Génie+Logiciel+🎓;Développeur+Web+Passionné+💻;Construisons+ensemble+l'avenir+🚀)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Étudiant+en+Génie+Logiciel+🎓;Développeur+Web;Web+and+Graphic+Designer)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwin-edohbedi)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator)
@@ -35,11 +35,11 @@ Membre actif du Tech Campus Club de l'Université de Lomé, Les Pros de la Tech 
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
-<div align="center">
+<div align="left">
 
-### 💻 Langages
+### Langages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,7 +76,7 @@ Membre actif du Tech Campus Club de l'Université de Lomé, Les Pros de la Tech 
 
 ---
 
-## 🌟 Projets Phares
+## Projets Phares
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ Recréation personnalisée du célèbre jeu avec mécaniques fluides.
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
