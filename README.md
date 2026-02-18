@@ -86,13 +86,13 @@ Membre actif du Tech Campus Club de l'Université de Lomé, Les Pros de la Tech 
 
 Extension navigateur intelligente pour optimiser vos impressions.
 
-** Fonctionnalités :**
+Fonctionnalités :
 - Prévisualisation avancée
 - Sélection intelligente de zones
 - Optimisation automatique
 - Sauvegarde des liens de page
 
-** Technologies :** JavaScript, HTML5, CSS3
+Technologies : JavaScript, HTML5, CSS3
 
 </td>
 <td width="50%">
@@ -101,13 +101,13 @@ Extension navigateur intelligente pour optimiser vos impressions.
 
 Recréation personnalisée du célèbre jeu avec mécaniques fluides.
 
-** Caractéristiques :**
+Caractéristiques :
 - Animations smooth
 - Système de score dynamique
 - Design personnalisé
 - Contrôles réactifs
 
-** Technologies :** HTML5 Canvas, JavaScript, CSS3
+Technologies : HTML5 Canvas, JavaScript, CSS3
 
 </td>
 </tr>
