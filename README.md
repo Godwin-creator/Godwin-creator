@@ -117,7 +117,7 @@ Technologies : HTML5 Canvas, JavaScript, CSS3
 
 ## Statistiques GitHub
 
-<details open>
+<details>
 <div align="center">
 
 ### 🔥 Streak de contributions
@@ -126,7 +126,7 @@ Technologies : HTML5 Canvas, JavaScript, CSS3
 </div>
 </details>
 
-<details open>
+<details>
 <summary><b>Graphique d'activité détaillé</b></summary>
 <br>
 
@@ -134,7 +134,7 @@ Technologies : HTML5 Canvas, JavaScript, CSS3
 
 </details>
 
-<details open>
+<details>
 <summary><b>Visualisation 3D des contributions</b></summary>
 <br>
 
