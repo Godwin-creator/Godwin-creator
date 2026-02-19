@@ -117,12 +117,14 @@ Technologies : HTML5 Canvas, JavaScript, CSS3
 
 ## Statistiques GitHub
 
+<details open>
 <div align="center">
 
 ### 🔥 Streak de contributions
 <img src="https://streak-stats.demolab.com?user=Godwin-creator&locale=fr&mode=daily&hide_border=false&border_radius=5&theme=gotham" height="200" alt="GitHub Streak" />
 
 </div>
+</details>
 
 <details open>
 <summary><b>Graphique d'activité détaillé</b></summary>
