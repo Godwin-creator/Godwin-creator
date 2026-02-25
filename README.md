@@ -30,9 +30,6 @@ const Godwin = {
 };
 ```
 
-**Engagement communautaire :**  
-Membre actif du Tech Campus Club de l'Université de Lomé, Les Pros de la Tech et du GDG ON CAMPUS. Je crois au partage de connaissances et à la collaboration pour faire grandir l'écosystème tech africain.
-
 ---
 
 ## Stack Technique
