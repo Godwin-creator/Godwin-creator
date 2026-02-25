@@ -20,7 +20,7 @@
 
 Je suis **EDOH BEDI Komi Godwin**, étudiant en génie logiciel à l'**École Polytechnique de Lomé** au Togo. Passionné par le développement web et l'innovation technologique, je m'investis activement dans la communauté tech togolaise.
 ```javascript
-const godwin = {
+const Godwin = {
     location: "Lomé, Togo 🇹🇬",
     education: "École Polytechnique de Lomé",
     currentFocus: "Développement web fullstack",
@@ -145,18 +145,6 @@ Technologies : HTML5 Canvas, JavaScript, CSS3
 </picture>
 
 </details>
-
----
-
-## 🤝 Collaboration & Open Source
-
-Je suis toujours ouvert aux collaborations sur des projets innovants ! Que ce soit pour :
-- 🌐 Du développement web
-- 🔓 Des contributions open source
-- 🎓 Du mentorat ou de l'apprentissage collaboratif
--  Des initiatives tech en Afrique
-
-**N'hésitez pas à me contacter pour échanger !**
 
 ---
 
