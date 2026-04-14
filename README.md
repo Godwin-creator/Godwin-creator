@@ -80,31 +80,80 @@ const Godwin = {
 <td width="50%">
 
 ### [GoPrint](https://github.com/Godwin-creator/GoPrint)
+**Extension Navigateur Intelligente**
 
-Extension navigateur intelligente pour optimiser vos impressions.
+Extension Chrome pour optimiser vos impressions web.
 
-Fonctionnalités :
-- Prévisualisation avancée
-- Sélection intelligente de zones
-- Optimisation automatique
-- Sauvegarde des liens de page
+**Fonctionnalités clés :**
+-  Nettoyage automatique des publicités et éléments non essentiels
+-  Prévisualisation avancée avant impression
+-  Conservation des liens hypertextes avec URLs
+-  Optimisation CSS pour l'impression
+-  Sauvegarde des liens de page
 
-Technologies : JavaScript, HTML5, CSS3
+**Stack :** JavaScript • HTML5 • CSS3 • Chrome API  
+**Version :** 1.0.0 | **Statut :** Actif  
+**Dev :** Komi Godwin EDOH BEDI
 
 </td>
 <td width="50%">
 
-### 🎮 [Flappy Bird - Gwin Edition](https://github.com/Godwin-creator/flappybird-v2)
+### [PAC - Power Assistant Chatbot](https://github.com/Godwin-creator/PAC)
+**Assistant Diagnostic d'Alimentation Électrique**
 
-Recréation personnalisée du célèbre jeu avec mécaniques fluides.
+Interface web intelligente pour diagnostiquer les pannes d'alimentation.
 
-Caractéristiques :
-- Animations smooth
-- Système de score dynamique
-- Design personnalisé
-- Contrôles réactifs
+**Fonctionnalités clés :**
+- Arbre de décision interactif guidé
+- Graphiques Chart.js pour visualiser le diagnostic
+- Synthèse vocale (TTS) intégrée
+- Schéma de la chaîne d'alimentation
+- Mode sombre et réinitialisation de session
 
-Technologies : HTML5 Canvas, JavaScript, CSS3
+**Stack :** JavaScript • HTML5 • CSS3 • Chart.js  
+**Équipe :** 5 développeurs
+**Demo :** [Lancer le diagnostic →](https://godwin-creator.github.io/PAC/)  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### [Neon Survival](https://github.com/Godwin-creator/Neon-survival)
+**Jeu de Survie Minimaliste créé avec IA**
+
+Jeu haute-vitesse développé en 60 minutes avec Cursor AI.
+
+**Fonctionnalités clés :**
+- Performance optimisée et fluide
+- Gameplay minimaliste et addictif
+- Intégration Gemini API
+- Déploiement rapide en production
+
+**Stack :** TypeScript • Node.js • Gemini AI  
+**Type :** Demo IA/Prototype  
+**Note :** Excellent exemple de rapidité avec assistants IA 
+**Status :** [Jouer maintenant →](https://neon-survival-sage.vercel.app/)
+
+</td>
+<td width="50%">
+
+### [Flappy Bird V2](https://github.com/Godwin-creator/flappybird-v2)
+**L'Évolution Sécurisée du Classique**
+
+Flappy Bird amélioré avec protection anti-triche innovante.
+
+**Fonctionnalités clés :**
+- **Système de chiffrement du record** (unique !)
+- Design responsive et moderne
+- Statistiques détaillées des performances
+- Animation fluide 60 FPS
+- Optimisé mobile & desktop
+
+**Stack :** HTML5 • CSS3 • JavaScript ES6+ • LocalStorage  
+**Innovation :** 1er Flappy Bird avec protection cryptographique !
+**Status :** [Jouer maintenant →](https://godwin-creator.github.io/flappybird-v2/)  
 
 </td>
 </tr>
@@ -145,11 +194,11 @@ Technologies : HTML5 Canvas, JavaScript, CSS3
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
-### 💬 Discutons de votre projet !
+### Discutons de votre projet !
 
 [![Email](https://img.shields.io/badge/LinkedIn_Message-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwin-edohbedi/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22896836447)
@@ -159,7 +208,7 @@ Technologies : HTML5 Canvas, JavaScript, CSS3
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Gwin09/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gwin_9/)
 
-🌐 **Portfolio :** *En cours de développement...*
+**Portfolio :** *En cours de développement...*
 
 </div>
 
