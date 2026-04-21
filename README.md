@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur mon espace GitHub !
+# Bienvenue sur mon espace GitHub !
 
 <div align="center">
 
@@ -229,7 +229,7 @@ Flappy Bird amélioré avec protection anti-triche innovante.
 
 ###  Si mes projets vous intéressent, n'hésitez pas à laisser une étoile !
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Merci+pour+votre+visite+!+❤️;À+bientôt+!+👋;Let's+code+together+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Merci+pour+votre+visite+!;GwinSoft;Let's+code+together+!)
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
