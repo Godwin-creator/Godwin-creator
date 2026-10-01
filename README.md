@@ -5,7 +5,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Étudiant+en+Génie+Logiciel+🎓;Développeur+Web;Web+and+Graphic+Designer)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwin-edohbedi)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22896836447)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Godwin-creator&color=2E9EF7&style=flat-square)
