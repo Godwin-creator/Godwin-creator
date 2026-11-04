@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240" role="img" aria-labelledby="ti">
+<title id="ti">Développeur web. De la maquette à la mise en production.</title>
+<style>
+.h{font:700 56px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#E6EDF3}
+.u{font:400 26px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif;fill:#9DA7B3}
+.m{font:400 26px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace}
+.a{fill:#58A6FF;font-weight:600}
+.t{fill:#E6EDF3}
+.k{fill:#58A6FF}
+.g{fill:#58A6FF;animation:pu 6s ease-in-out infinite}
+@keyframes pu{0%,100%{fill-opacity:1}50%{fill-opacity:.55}}
+@keyframes s0{0%,19.99%{opacity:1}20.00%,100%{opacity:0}}
+@keyframes c0{0%{transform:translateX(0);animation-timing-function:steps(45)}6.50%,100%{transform:translateX(683.0px)}}
+.p0{opacity:1;animation:s0 20s linear 0s infinite}
+.c0{transform:translateX(683.0px);animation:c0 20s linear 0s infinite}
+@keyframes s1{0%,19.99%{opacity:1}20.00%,100%{opacity:0}}
+@keyframes c1{0%{transform:translateX(0);animation-timing-function:steps(31)}6.50%,100%{transform:translateX(473.0px)}}
+.p1{opacity:0;animation:s1 20s linear 4s infinite}
+.c1{transform:translateX(473.0px);animation:c1 20s linear 4s infinite}
+@keyframes s2{0%,19.99%{opacity:1}20.00%,100%{opacity:0}}
+@keyframes c2{0%{transform:translateX(0);animation-timing-function:steps(34)}6.50%,100%{transform:translateX(518.0px)}}
+.p2{opacity:0;animation:s2 20s linear 8s infinite}
+.c2{transform:translateX(518.0px);animation:c2 20s linear 8s infinite}
+@keyframes s3{0%,19.99%{opacity:1}20.00%,100%{opacity:0}}
+@keyframes c3{0%{transform:translateX(0);animation-timing-function:steps(35)}6.50%,100%{transform:translateX(533.0px)}}
+.p3{opacity:0;animation:s3 20s linear 12s infinite}
+.c3{transform:translateX(533.0px);animation:c3 20s linear 12s infinite}
+@keyframes s4{0%,19.99%{opacity:1}20.00%,100%{opacity:0}}
+@keyframes c4{0%{transform:translateX(0);animation-timing-function:steps(34)}6.50%,100%{transform:translateX(518.0px)}}
+.p4{opacity:0;animation:s4 20s linear 16s infinite}
+.c4{transform:translateX(518.0px);animation:c4 20s linear 16s infinite}
+@media (prefers-reduced-motion:reduce){.p,.c,.g{animation:none}}
+</style>
+<clipPath id="in"><rect x="2" y="2" width="796" height="236" rx="13"/></clipPath>
+<rect x="1" y="1" width="798" height="238" rx="14" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<text x="48" y="104" class="h">Développeur web</text>
+<text x="48" y="148" class="u">De la maquette à la mise en production.</text>
+<rect x="590" y="50" width="18" height="18" rx="3" class="g" style="opacity:0.25;animation-delay:-6.00s"/>
+<rect x="613" y="50" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-5.65s"/>
+<rect x="636" y="50" width="18" height="18" rx="3" class="g" style="opacity:0.45;animation-delay:-5.30s"/>
+<rect x="659" y="50" width="18" height="18" rx="3" class="g" style="opacity:1;animation-delay:-4.95s"/>
+<rect x="682" y="50" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.60s"/>
+<rect x="705" y="50" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.25s"/>
+<rect x="728" y="50" width="18" height="18" rx="3" class="g" style="opacity:0.7;animation-delay:-3.90s"/>
+<rect x="590" y="73" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-5.80s"/>
+<rect x="613" y="73" width="18" height="18" rx="3" class="g" style="opacity:0.25;animation-delay:-5.45s"/>
+<rect x="636" y="73" width="18" height="18" rx="3" class="g" style="opacity:0.7;animation-delay:-5.10s"/>
+<rect x="659" y="73" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.75s"/>
+<rect x="682" y="73" width="18" height="18" rx="3" class="g" style="opacity:0.7;animation-delay:-4.40s"/>
+<rect x="705" y="73" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.05s"/>
+<rect x="728" y="73" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-3.70s"/>
+<rect x="590" y="96" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-5.60s"/>
+<rect x="613" y="96" width="18" height="18" rx="3" class="g" style="opacity:0.45;animation-delay:-5.25s"/>
+<rect x="636" y="96" width="18" height="18" rx="3" class="g" style="opacity:0.45;animation-delay:-4.90s"/>
+<rect x="659" y="96" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.55s"/>
+<rect x="682" y="96" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.20s"/>
+<rect x="705" y="96" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-3.85s"/>
+<rect x="728" y="96" width="18" height="18" rx="3" class="g" style="opacity:0.7;animation-delay:-3.50s"/>
+<rect x="590" y="119" width="18" height="18" rx="3" class="g" style="opacity:0.45;animation-delay:-5.40s"/>
+<rect x="613" y="119" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-5.05s"/>
+<rect x="636" y="119" width="18" height="18" rx="3" class="g" style="opacity:0.7;animation-delay:-4.70s"/>
+<rect x="659" y="119" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.35s"/>
+<rect x="682" y="119" width="18" height="18" rx="3" class="g" style="opacity:0.12;animation-delay:-4.00s"/>
+<rect x="705" y="119" width="18" height="18" rx="3" class="g" style="opacity:1;animation-delay:-3.65s"/>
+<rect x="728" y="119" width="18" height="18" rx="3" class="g" style="opacity:1;animation-delay:-3.30s"/>
+<g clip-path="url(#in)">
+<g class="p p0"><text x="48" y="203" class="m" textLength="675.0" lengthAdjust="spacing"><tspan class="a">KofCorporation</tspan><tspan class="t"> : refonte de site d'entreprise</tspan></text><g class="c c0"><rect x="48" y="176" width="689.0" height="36" fill="#161B22"/><rect x="48" y="180" width="3" height="30" class="k"/></g></g>
+<g class="p p1"><text x="48" y="203" class="m" textLength="465.0" lengthAdjust="spacing"><tspan class="a">LUNA</tspan><tspan class="t"> : PWA de santé menstruelle</tspan></text><g class="c c1"><rect x="48" y="176" width="479.0" height="36" fill="#161B22"/><rect x="48" y="180" width="3" height="30" class="k"/></g></g>
+<g class="p p2"><text x="48" y="203" class="m" textLength="510.0" lengthAdjust="spacing"><tspan class="a">Now</tspan><tspan class="t"> : suivi et relance de créances</tspan></text><g class="c c2"><rect x="48" y="176" width="524.0" height="36" fill="#161B22"/><rect x="48" y="180" width="3" height="30" class="k"/></g></g>
+<g class="p p3"><text x="48" y="203" class="m" textLength="525.0" lengthAdjust="spacing"><tspan class="a">ChainCacao</tspan><tspan class="t"> : traçabilité blockchain</tspan></text><g class="c c3"><rect x="48" y="176" width="539.0" height="36" fill="#161B22"/><rect x="48" y="180" width="3" height="30" class="k"/></g></g>
+<g class="p p4"><text x="48" y="203" class="m" textLength="510.0" lengthAdjust="spacing"><tspan class="a">AOA Togo</tspan><tspan class="t"> : site vitrine associatif</tspan></text><g class="c c4"><rect x="48" y="176" width="524.0" height="36" fill="#161B22"/><rect x="48" y="180" width="3" height="30" class="k"/></g></g>
+</g>
+</svg>
