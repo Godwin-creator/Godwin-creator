@@ -50,7 +50,7 @@ Suivi et information en santé menstruelle pour l'Afrique francophone : prédict
 `Next.js` `TypeScript` `PWA` `IA générative`
 
 [![Voir la démo](https://img.shields.io/badge/Voir_la_d%C3%A9mo-0969DA?style=for-the-badge)](https://luna-coral-nu.vercel.app)
-[![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/LUNA-AI4Youth)
+![Code privé](https://img.shields.io/badge/Code_priv%C3%A9-57606A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFhNSA1IDAgMCAwLTUgNXYzSDZhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWMTFhMiAyIDAgMCAwLTItMmgtMVY2YTUgNSAwIDAgMC01LTV6bS0zIDhWNmEzIDMgMCAwIDEgNiAwdjNIOXoiLz48L3N2Zz4%3D)
 
 <details>
 <summary><b>Voir l'aperçu</b></summary>
@@ -68,7 +68,7 @@ Application mobile-first de gestion des impayés : tableau de bord temps réel, 
 `TypeScript` `React` `Tailwind CSS`
 
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://nowpay.website)
-[![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/now)
+![Code privé](https://img.shields.io/badge/Code_priv%C3%A9-57606A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFhNSA1IDAgMCAwLTUgNXYzSDZhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWMTFhMiAyIDAgMCAwLTItMmgtMVY2YTUgNSAwIDAgMC01LTV6bS0zIDhWNmEzIDMgMCAwIDEgNiAwdjNIOXoiLz48L3N2Zz4%3D)
 
 <details>
 <summary><b>Voir l'aperçu</b></summary>
@@ -106,7 +106,7 @@ Site institutionnel de l'ONG Apprentis-Orphelins d'Afrique, avec gestion de cont
 `React 19` `Tailwind CSS` `Sanity CMS` `Vercel`
 
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://aoa-togo.org)
-[![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/aoa-togo)
+![Code privé](https://img.shields.io/badge/Code_priv%C3%A9-57606A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFhNSA1IDAgMCAwLTUgNXYzSDZhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWMTFhMiAyIDAgMCAwLTItMmgtMVY2YTUgNSAwIDAgMC01LTV6bS0zIDhWNmEzIDMgMCAwIDEgNiAwdjNIOXoiLz48L3N2Zz4%3D)
 
 <details>
 <summary><b>Voir l'aperçu</b></summary>
