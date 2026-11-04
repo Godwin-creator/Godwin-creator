@@ -32,6 +32,15 @@ Refonte complète du site d'une entreprise IT de Lomé, menée en autonomie dans
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://kofcorporation-website.vercel.app)
 [![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/kofcorporation-website)
 
+<details>
+<summary><b>Voir l'aperçu</b></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/kofcorporation.webp" alt="Site KofCorporation : page d'accueil en thème sombre sur ordinateur et en thème clair sur téléphone" width="100%" />
+
+</details>
+
 ### LUNA — PWA de santé menstruelle
 
 Suivi et information en santé menstruelle pour l'Afrique francophone : prédiction de cycle, assistant conversationnel, contenus pédagogiques et annuaire de professionnels de santé. Conception appuyée sur une étude terrain de plus de 100 répondantes.
@@ -43,6 +52,15 @@ Suivi et information en santé menstruelle pour l'Afrique francophone : prédict
 [![Voir la démo](https://img.shields.io/badge/Voir_la_d%C3%A9mo-0969DA?style=for-the-badge)](https://luna-coral-nu.vercel.app)
 [![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/LUNA-AI4Youth)
 
+<details>
+<summary><b>Voir l'aperçu</b></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/luna.webp" alt="LUNA sur téléphone : accueil de l'assistant, leçons et discussion" width="100%" />
+
+</details>
+
 ### Now — Suivi et relance de créances
 
 Application mobile-first de gestion des impayés : tableau de bord temps réel, scoring de risque par créance, filtres avancés et messages de relance générés par IA.
@@ -51,6 +69,15 @@ Application mobile-first de gestion des impayés : tableau de bord temps réel, 
 
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://nowpay.website)
 [![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/now)
+
+<details>
+<summary><b>Voir l'aperçu</b></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/now.webp" alt="Now sur téléphone : écran Comment ça marche" width="100%" />
+
+</details>
 
 ### ChainCacao — Traçabilité blockchain
 
@@ -63,6 +90,15 @@ MVP de traçabilité pour la filière café-cacao au Togo, conforme à la régle
 [![Voir la démo](https://img.shields.io/badge/Voir_la_d%C3%A9mo-0969DA?style=for-the-badge)](https://chaincacao-mvp.vercel.app)
 [![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/chaincacao-monorepo)
 
+<details>
+<summary><b>Voir l'aperçu</b></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/chaincacao.webp" alt="ChainCacao : page d'accueil sur ordinateur et tableau de bord sur téléphone" width="100%" />
+
+</details>
+
 ### AOA Togo — Site vitrine associatif
 
 Site institutionnel de l'ONG Apprentis-Orphelins d'Afrique, avec gestion de contenu autonome via CMS headless. Réalisé bénévolement, en production depuis 2026.
@@ -72,6 +108,15 @@ Site institutionnel de l'ONG Apprentis-Orphelins d'Afrique, avec gestion de cont
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://aoa-togo.org)
 [![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/aoa-togo)
 
+<details>
+<summary><b>Voir l'aperçu</b></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/aoa-togo.webp" alt="Site AOA Togo : actualités sur ordinateur et page d'accueil sur téléphone" width="100%" />
+
+</details>
+
 ### JAXE TECH — Site one-page
 
 Site vitrine d'une agence digitale togolaise, réalisé sous contrainte de temps pour un test technique de recrutement : responsive, SEO local et optimisation de la conversion.
@@ -80,6 +125,15 @@ Site vitrine d'une agence digitale togolaise, réalisé sous contrainte de temps
 
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://godwin-creator.github.io/jaxe-tech-onepage-solutions/)
 [![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/jaxe-tech-onepage-solutions)
+
+<details>
+<summary><b>Voir l'aperçu</b></summary>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/jaxe-tech.webp" alt="Site JAXE TECH : page d'accueil sur ordinateur" width="100%" />
+
+</details>
 
 ## Autres projets
 
