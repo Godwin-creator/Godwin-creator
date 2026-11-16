@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/header-light.svg" />
-  <img alt="Développeur web. De la maquette à la mise en production. Projets : KofCorporation, LUNA, Now, ChainCacao, AOA Togo." src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/header-dark.svg" width="100%" />
+  <img alt="Développeur web. De la maquette à la mise en production. Projets : KofCorporation, LUNA, NowPay, ChainCacao, AOA Togo." src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/header-dark.svg" width="100%" />
 </picture>
 
 <br/>
@@ -41,13 +41,13 @@ Refonte complète du site d'une entreprise IT de Lomé, menée en autonomie dans
 
 </details>
 
-### LUNA — PWA de santé menstruelle
+### LUNA : PWA de santé menstruelle
 
-Suivi et information en santé menstruelle pour l'Afrique francophone : prédiction de cycle, assistant conversationnel, contenus pédagogiques et annuaire de professionnels de santé. Conception appuyée sur une étude terrain de plus de 100 répondantes.
+Application web installable de santé menstruelle pour les jeunes du Togo, dès 10 ans : calendrier du cycle avec estimation de la prochaine période, 32 leçons illustrées avec quiz, assistant qui répond à partir de fiches et cite ses sources sans jamais poser de diagnostic, et carte de 963 lieux de santé qui ne transmet pas la position. Les données restent sur le téléphone, l'application fonctionne hors ligne, avec verrou et sortie rapide. Conception appuyée sur une enquête de terrain de 103 réponses.
 
-**En cours :** Hackathon AI4Youth NEURACTIF 2026, équipe qualifiée en demi-finale.
+**Contexte :** né au hackathon AI4Youth NEURACTIF 2026, poursuivi pour devenir un produit, en équipe de 4. Pas encore ouvert au public : relecture médicale des contenus en attente.
 
-`Next.js` `TypeScript` `PWA` `IA générative`
+`Next.js` `TypeScript` `PWA` `Gemini` `RAG` `MapLibre`
 
 [![Voir la démo](https://img.shields.io/badge/Voir_la_d%C3%A9mo-0969DA?style=for-the-badge)](https://luna-coral-nu.vercel.app)
 [![Code privé](https://img.shields.io/badge/Code_priv%C3%A9-57606A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFhNSA1IDAgMCAwLTUgNXYzSDZhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWMTFhMiAyIDAgMCAwLTItMmgtMVY2YTUgNSAwIDAgMC01LTV6bS0zIDhWNmEzIDMgMCAwIDEgNiAwdjNIOXoiLz48L3N2Zz4%3D)](#luna--pwa-de-santé-menstruelle "Dépôt privé")
@@ -57,25 +57,27 @@ Suivi et information en santé menstruelle pour l'Afrique francophone : prédict
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/luna.webp" alt="LUNA sur téléphone : accueil de l'assistant, leçons et discussion" width="100%" />
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/luna.webp" alt="LUNA sur téléphone : écran du jour du cycle, leçons illustrées, accueil de l'assistant et paramètres" width="100%" />
 
 </details>
 
-### Now — Suivi et relance de créances
+### NowPay : suivi et relance de créances
 
-Application mobile-first de gestion des impayés : tableau de bord temps réel, scoring de risque par créance, filtres avancés et messages de relance générés par IA.
+Application web mobile d'abord, en production, qui dit chaque matin au gérant d'une PME togolaise qui relancer, quoi écrire et par quel canal. Messages de relance préparés par IA au ton choisi, que le gérant relit et envoie lui-même par WhatsApp, e-mail ou SMS avec ses numéros Mobile Money. Scanner de factures, import Excel ou CSV, mode hors ligne, notifications push et journal d'activité infalsifiable.
 
-`TypeScript` `React` `Tailwind CSS`
+**Contexte :** projet final de la Lomé Summer School en IA 2026, en équipe de 5. Version 1.4.0 en production.
 
-[![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://nowpay.website)
-[![Code privé](https://img.shields.io/badge/Code_priv%C3%A9-57606A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFhNSA1IDAgMCAwLTUgNXYzSDZhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWMTFhMiAyIDAgMCAwLTItMmgtMVY2YTUgNSAwIDAgMC01LTV6bS0zIDhWNmEzIDMgMCAwIDEgNiAwdjNIOXoiLz48L3N2Zz4%3D)](#now--suivi-et-relance-de-créances "Dépôt privé")
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini` `PWA`
+
+[![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://www.nowpay.website)
+[![Code privé](https://img.shields.io/badge/Code_priv%C3%A9-57606A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFhNSA1IDAgMCAwLTUgNXYzSDZhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWMTFhMiAyIDAgMCAwLTItMmgtMVY2YTUgNSAwIDAgMC01LTV6bS0zIDhWNmEzIDMgMCAwIDEgNiAwdjNIOXoiLz48L3N2Zz4%3D)](#nowpay--suivi-et-relance-de-créances "Dépôt privé")
 
 <details>
 <summary><b>Voir l'aperçu</b></summary>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/now.webp" alt="Now sur téléphone : écran Comment ça marche" width="100%" />
+<img src="https://raw.githubusercontent.com/Godwin-creator/Godwin-creator/main/assets/projets/nowpay.webp" alt="NowPay : écran Aujourd'hui sur ordinateur, liste des créances et saisie d'une nouvelle créance sur téléphone" width="100%" />
 
 </details>
 
