@@ -23,14 +23,14 @@ Je développe des applications web avec **React**, **Next.js** et **TypeScript**
 
 ## Projets
 
-### KofCorporation — Refonte du site d'entreprise
+### KofCorporation : refonte du site d'entreprise
 
 Refonte complète du site d'une entreprise IT de Lomé, menée en autonomie dans le cadre de mon stage : audit technique (performance, SEO, accessibilité, conformité), design system clair/sombre, internationalisation FR/EN et pages de services dynamiques.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `next-intl` `Vercel`
 
 [![Voir le site](https://img.shields.io/badge/Voir_le_site-0969DA?style=for-the-badge)](https://kofcorporation-website.vercel.app)
-[![Code](https://img.shields.io/badge/Code-57606A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Godwin-creator/kofcorporation-website)
+[![Code privé](https://img.shields.io/badge/Code_priv%C3%A9-57606A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFhNSA1IDAgMCAwLTUgNXYzSDZhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWMTFhMiAyIDAgMCAwLTItMmgtMVY2YTUgNSAwIDAgMC01LTV6bS0zIDhWNmEzIDMgMCAwIDEgNiAwdjNIOXoiLz48L3N2Zz4%3D)](#kofcorporation--refonte-du-site-dentreprise "Dépôt privé")
 
 <details>
 <summary><b>Voir l'aperçu</b></summary>
@@ -81,9 +81,9 @@ Application web mobile d'abord, en production, qui dit chaque matin au gérant d
 
 </details>
 
-### ChainCacao — Traçabilité blockchain
+### ChainCacao : traçabilité blockchain
 
-MVP de traçabilité pour la filière café-cacao au Togo, conforme à la réglementation européenne EUDR 2025. Vérification de l'origine d'un lot en quelques secondes, architecture pensée pour les zones à faible connectivité.
+MVP de traçabilité pour la filière café-cacao au Togo, pensé pour le règlement européen sur la déforestation (EUDR). Vérification de l'origine d'un lot en quelques secondes, architecture pensée pour les zones à faible connectivité.
 
 **Résultat :** 10ᵉ en phase finale nationale du Miabé Hackathon 2026.
 
@@ -101,7 +101,7 @@ MVP de traçabilité pour la filière café-cacao au Togo, conforme à la régle
 
 </details>
 
-### AOA Togo — Site vitrine associatif
+### AOA Togo : site vitrine associatif
 
 Site institutionnel de l'ONG Apprentis-Orphelins d'Afrique, avec gestion de contenu autonome via CMS headless. Réalisé bénévolement, en production depuis 2026.
 
@@ -119,7 +119,7 @@ Site institutionnel de l'ONG Apprentis-Orphelins d'Afrique, avec gestion de cont
 
 </details>
 
-### JAXE TECH — Site one-page
+### JAXE TECH : site one-page
 
 Site vitrine d'une agence digitale togolaise, réalisé sous contrainte de temps pour un test technique de recrutement : responsive, SEO local et optimisation de la conversion.
 
@@ -139,10 +139,10 @@ Site vitrine d'une agence digitale togolaise, réalisé sous contrainte de temps
 
 ## Autres projets
 
-- **GoPrint** — extension Chrome d'impression · [Code](https://github.com/Godwin-creator/GoPrint)
-- **PAC** — chatbot de diagnostic de panne d'alimentation · [Site](https://godwin-creator.github.io/PAC/) · [Code](https://github.com/Godwin-creator/PAC)
-- **Flappy Bird V2** — jeu web avec chiffrement du score · [Jouer](https://godwin-creator.github.io/flappybird-v2/) · [Code](https://github.com/Godwin-creator/flappybird-v2)
-- **E-PolyBiblio** — bibliothèque numérique de l'EPL, en conception et pas encore fonctionnelle · [Dépôt](https://github.com/Godwin-creator/E-PolyBiblio)
+- **GoPrint** : extension Chrome d'impression ([code](https://github.com/Godwin-creator/GoPrint))
+- **PAC** : chatbot de diagnostic de panne d'alimentation ([site](https://godwin-creator.github.io/PAC/), [code](https://github.com/Godwin-creator/PAC))
+- **Flappy Bird V2** : jeu web avec chiffrement du score ([jouer](https://godwin-creator.github.io/flappybird-v2/), [code](https://github.com/Godwin-creator/flappybird-v2))
+- **E-PolyBiblio** : bibliothèque numérique de l'EPL, en conception et pas encore fonctionnelle ([dépôt](https://github.com/Godwin-creator/E-PolyBiblio))
 
 ## Stack technique
 
@@ -218,4 +218,4 @@ Pour un projet, une opportunité ou simplement échanger :
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edohbedigodwin@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22891071791)
 
-Portfolio en refonte, lien indisponible pour le moment.
+Portfolio : [bedigodwin.vercel.app](https://bedigodwin.vercel.app)
